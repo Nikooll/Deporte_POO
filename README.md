@@ -1,4 +1,6 @@
 # Deporte_POO
-[Taller_Campeonato_Camacho_Nathaly.pdf](https://github.com/user-attachments/files/16429940/Taller_Campeonato_Camacho_Nathaly.pdf)
 
-Se implento la tabla de posiciones y para que se puede registrar un empate en el codigo.
+![Deportes_UML](https://github.com/user-attachments/assets/88b83540-3b3a-44c0-aabd-973cb5e3102a)
+
+
+Este diagrama UML contiene la gestión de un sistema de campeonatos deportivos, permitiendo manejar la inscripción de participantes y equipos, la organización de partidos y jornadas, la gestión de resultados y estadísticas.
